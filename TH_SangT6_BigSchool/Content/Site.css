@@ -15,7 +15,10 @@
 .dl-horizontal dt {
     white-space: normal;
 }
-
+.navbar-inverse {
+    background-color: #a94442;
+    border-color: #080808;
+}
 /* Set width on the form input elements since they're 100% wide by default */
 input,
 select,
