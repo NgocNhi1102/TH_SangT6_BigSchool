@@ -142,6 +142,7 @@ namespace TH_SangT6_BigSchool.Controllers
             return View();
         }
 
+
         //
         // POST: /Account/Register
         [HttpPost]
